@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/normal_text_style"
+    android:id="@+id/btn_action"
+    android:layout_width="@dimen/dialog_width_normal"
+    android:background="@drawable/bg_white_shape"
+    android:gravity="center"
+    android:paddingBottom="@dimen/text_margin_normal"
+    android:paddingTop="@dimen/text_margin_normal"
+    android:textSize="@dimen/text_size_medium" />
+

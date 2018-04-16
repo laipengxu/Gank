@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0E88EB</color>
+    <color name="colorPrimaryDark">#0E88EB</color>
+    <color name="colorAccent">#FFF</color>
+
+    <color name="gray_pressed">#eee</color>
+    <color name="gray_normal">#666667</color>
+    <color name="bg_normal_gray">#F5F5F5</color>
+
+    <color name="bg_normal_gray_deep">#cccccc</color>
+
+    <color name="line">#F2F4F7</color>
+    <color name="line_deep">#CCC</color>
+
+    <color name="tv_gray_normal">#1c1c1c</color>
+    <color name="tv_gray_deep">#FF666666</color>
+    <color name="tv_gray_light">#787878</color>
+
+    <color name="tv_time">#a9a9a9</color>
+
+    <color name="btn_gray_normal">#ccc</color>
+
+    <color name="emojicon_tab_selected">#D9D9D9</color>
+    <color name="emojicon_tab_nomal">#ffffff</color>
+
+    <color name="title_bar_normal_bg">@android:color/white</color>
+
+    <color name="orange_main">#f05e1c</color>
+    <color name="orange_light">#ffd39b</color>
+    <color name="orange_deep">#ff6111</color>
+
+    <color name="red_normal">@android:color/holo_red_light</color>
+    <color name="red_deep">@android:color/holo_red_dark</color>
+
+    <color name="main_color">@android:color/holo_blue_light</color>
+
+    <color name="transparent_half">#a0000000</color>
+    <color name="transparent_deep">#60000000</color>
+
+    <color name="white_alpha">#8fffffff</color>
+
+    <color name="tab_color_selected">@color/orange_main</color>
+    <color name="tab_color_normal">@color/tv_gray_light</color>
+
+    <color name="gray_tab_color_selected">#30000000</color>
+
+    <color name="coupon_voucher">#EB7A77</color>
+    <color name="coupon_discount">#B5CAA0</color>
+
+
+    <color name="blue">#303F9F</color>
+    <color name="green">#4CAF50</color>
+    <color name="green_teal">#009688</color>
+    <color name="purple">#673AB7</color>
+    <color name="red">#F44336</color>
+    <color name="cyan">#00BCD4</color>
+    <color name="lime">#CDDC39</color>
+
+    <color name="blue_text">#58B2DC</color>
+
+    <!-- webView -->
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="select_color">#2e2e32</color>
+</resources>

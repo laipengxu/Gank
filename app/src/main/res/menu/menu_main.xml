@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.roc.gank.ui.activity.MainActivity">
+    <item
+        android:id="@+id/action_folder"
+        android:orderInCategory="100"
+        android:title="@string/folder"
+        android:icon="@mipmap/ic_folder"
+        app:showAsAction="ifRoom"/>
+</menu>
